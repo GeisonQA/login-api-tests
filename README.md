@@ -93,7 +93,7 @@ BASE_URL=http://localhost:3000
 
 ```bash
 git clone https://github.com/GeisonQA/api-login-testes.git
-cd api_login
+cd api-login-testes
 ```
 
 2. **Instale as dependências:**
